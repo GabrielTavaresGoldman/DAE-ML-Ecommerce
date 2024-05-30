@@ -1,1 +1,1 @@
-##Este projeto foi desenvolvido como parte da minha jornada de aprendizado em ciência de dados e machine learning. O objetivo principal foi analisar e entender os padrões de consumo dos clientes e construir um modelo preditivo robusto para antecipar suas despesas futuras.##
+## Este projeto foi desenvolvido como parte da minha jornada de aprendizado em ciência de dados e machine learning. O objetivo principal foi analisar e entender os padrões de consumo dos clientes e construir um modelo preditivo robusto para antecipar suas despesas futuras. ##
