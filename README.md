@@ -33,4 +33,4 @@ Este projeto envolve várias etapas essenciais de um pipeline de ciência de dad
 * Modelo Preditivo: O modelo XGBoost desenvolvido possui um R² de 0.997, demonstrando alta capacidade preditiva.
 
 ## Conclusão ##
-Este projeto oferece uma visão abrangente do comportamento de consumo dos clientes e mostra o poder da ciência de dados para gerar insights valiosos e criar modelos preditivos eficazes. Sinta-se à vontade para explorar o código, replicar as análises e contribuir com melhorias.
+Este projeto oferece uma visão abrangente do comportamento de consumo dos clientes e mostra o poder da ciência de dados para gerar insights valiosos e criar modelos preditivos eficazes. Sinta-se à vontade para explorar o código.
